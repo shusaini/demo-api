@@ -6,6 +6,8 @@
     }
   ],
   "profile": {
-    "name": "solihin husaini"
+    "name": "solihin husaini",
+    "age": 34,
+    "gender": "male"
   }
 }
